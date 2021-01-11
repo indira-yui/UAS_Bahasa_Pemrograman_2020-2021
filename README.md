@@ -103,22 +103,4 @@ Tambah data
 
 [Output](screenshot/gambar1.jpg)
 
-Ubah data
 
-[Output](screenshot/gambar2.jpg)
-
-Lihat data
-
-[Output](screenshot/gambar3.jpg)
-
-Cari data
-
-[Output](screenshot/gambar4.jpg)
-
-Hapus data
-
-[Output](screenshot/gambar5.jpg)
-
-**Flowchart**
-
-[Output pratikum 5](screenshot/flowchart.png)
