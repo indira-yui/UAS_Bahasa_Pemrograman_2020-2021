@@ -100,7 +100,6 @@ while True:
 **Output:**
 
 Tambah data
-
 [Output](screenshot/gambar1.jpg)
 
 
